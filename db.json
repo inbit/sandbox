@@ -65,7 +65,8 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
-    }, {
+    }, 
+    {
       "id": 2001,
       "category": "animal welfare2",
       "title": "Dog Adoption Day",
